@@ -15,8 +15,11 @@ The blueprint combines headless agents, distributed monitoring, and policy-drive
 Modern monitoring systems are often reactive and siloed. Alerts and logs may come too late, allowing attackers to compromise systems before administrators can respond. This blueprint proposes:
 
 •Real-time monitoring and response
+
 •Behavioral awareness, understanding intent, not just events
+
 •Deterministic and explainable actions, ensuring every step is transparent
+
 •Distributed, autonomous agents, optimized for speed and locality
 
 The project has been conceptualized since 2011 and leverages mature tools like Linux observability tooling and Unreal Engine headless behavior trees to bring the idea to life.
@@ -37,7 +40,9 @@ Designed to be adaptable and built upon by individuals, teams, or communities.
 ## Intended Audience
 
 •System administrators and IT security professionals
+
 •Developers interested in advanced monitoring solutions
+
 •Open-source contributors and community-driven security projects
 
 ## Usage
@@ -45,20 +50,27 @@ Designed to be adaptable and built upon by individuals, teams, or communities.
 This is a conceptual blueprint, not a software project. It is intended to:
 
 •Serve as a guide for designing intelligent monitoring systems
+
 •Inspire developers and teams to implement behavior-driven security architectures
+
 •Provide a structured framework for open-source contributions
 
 ## Implementation Tips:
 
 •Leverage lightweight agents for real-time observability
+
 •Use deterministic, explainable decision trees instead of opaque ML models
+
 •Monitor critical directories, network activity, and system behaviors continuously
 
 ## Highlights
 
 •Breaks the reactive alert cycle of traditional monitoring
+
 •Reduces false positives by evaluating context and intent
+
 •Fully transparent and auditable actions
+
 •Designed for high-speed, mission-critical environments
 
 ## License
