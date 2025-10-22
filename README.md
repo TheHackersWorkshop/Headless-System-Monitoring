@@ -78,7 +78,9 @@ This is a conceptual blueprint, not a software project. It is intended to:
 This whitepaper is released into the public domain. You are free to:
 
 •Read, copy, and share
+
 •Build upon the concepts
+
 •Integrate into projects, including open-source initiatives
 
 Note: Commercial use or redistribution should credit the original author, David Rosales.
