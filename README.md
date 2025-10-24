@@ -10,6 +10,8 @@ This whitepaper outlines a blueprint for real-time, behavior-driven system monit
 
 The blueprint combines headless agents, distributed monitoring, and policy-driven control to harden systems against attacks while remaining lightweight, explainable, and adaptable.
 
+### AC in this paper means Automated Control
+
 ## Purpose & Motivation
 
 Modern monitoring systems are often reactive and siloed. Alerts and logs may come too late, allowing attackers to compromise systems before administrators can respond. This blueprint proposes:
